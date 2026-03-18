@@ -112,11 +112,12 @@ Recommendations:
 
 ## Further Documentation
 
-| Topic | Link |
-|---|---|
-| Compliance Tracking | [docs/compliance.md](docs/compliance.md) |
-| Development & Testing | [docs/development.md](docs/development.md) |
+| Topic                 | Link                                           |
+|-----------------------|------------------------------------------------|
+| Compliance Tracking   | [docs/compliance.md](docs/compliance.md)       |
+| Development & Testing | [docs/development.md](docs/development.md)     |
 | Frontend Dependencies | [docs/frontend-deps.md](docs/frontend-deps.md) |
+
 
 ## Disclaimer
 This project provides a custom web frontend to visualize outputs from Ansible / AWX and is not affiliated with, endorsed by, or supported by Red Hat, Inc.. The names are used strictly for descriptive purposes of compatibility.
